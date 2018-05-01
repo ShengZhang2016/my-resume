@@ -1,0 +1,19 @@
+{
+  "name": "my-resume",
+  "version": "0.1.0",
+  "private": true,
+  "homepage" : "http://ShengZhang2016.github.io/my-resume",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "prismjs": "^1.6.0",
+    "showdown": "^1.7.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
